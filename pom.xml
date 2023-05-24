@@ -19,7 +19,7 @@
         <maven.surefire.report.plugin.version>2.14</maven.surefire.report.plugin.version>
         <maven.javadoc.plugin.version>2.9</maven.javadoc.plugin.version>
         <app.main.class>com.mobileiron.tlv.TLVApplication</app.main.class>
-        <spring-version>5.1.0.RELEASE</spring-version>
+        <spring-version>5.2.24.RELEASE</spring-version>
     </properties>
 
     <dependencies>
